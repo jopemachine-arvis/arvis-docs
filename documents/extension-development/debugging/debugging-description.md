@@ -1,3 +1,11 @@
+---
+layout: default
+title: How to debug arvis extension
+parent: Advanced
+grand_parent: Extension development
+nav_order: 1
+---
+
 # Debugging workflow, plugin
 
 1. You can debug your query, workflow, plugin's behaviors through *[Chrome Devtools](https://developer.chrome.com/docs/devtools/)*.

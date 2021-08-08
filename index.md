@@ -33,8 +33,6 @@ Arvis is extendable cross-platform launcher application that aims to help you ru
 
 📹 [View Arvis overview video](https://www.youtube.com/watch?v=arRfdSaGM8I)
 
-https://user-images.githubusercontent.com/18283033/126311865-1fce968a-8fec-44d6-8fdb-40efcc2d3c4a.mp4
-
 ## 👷 Still alpha version.
 
 Arvis is still in the construction and there could be lots of bugs.

@@ -2,6 +2,7 @@
 layout: default
 title: History
 parent: Advanced
+grand_parent: Extension development
 nav_order: 3
 ---
 

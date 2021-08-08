@@ -2,6 +2,7 @@
 layout: default
 title: Plugin items format
 parent: Plugin development
+grand_parent: Extension development
 nav_order: 3
 ---
 
