@@ -79,7 +79,7 @@ required: `true`
 
 Entry js file of the plugin.
 
-Must return item array of [plugin item format]({% link documents/extension-development/plugin/plugin-items-format-description.md %}).
+Must return item array of [plugin item format]({{ site.baseurl }}{% link documents/extension-development/plugin/plugin-items-format-description.md %}).
 
 ### `defaultIcon`
 
@@ -179,4 +179,4 @@ Therefore, it is useful when you ask users for information such as API keys.
 
 #### Action
 
-[Click me to check Action]({% link documents/extension-development/action-description.md %})
+[Click me to check Action]({{ site.baseurl }}{% link documents/extension-development/action-description.md %})

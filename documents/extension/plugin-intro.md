@@ -38,17 +38,17 @@ Note: The results of Deferred plugins are shown below normal items regardless of
 
 ## Action
 
-[Click me to check Action]({% link documents/extension-development/action-description.md %})
+[Click me to check Action]({{ site.baseurl }}{% link documents/extension-development/action-description.md %})
 
 ## How to write plugin
 
-[Click me to check how to write new plugin]({% link documents/extension-development/plugin/index.md %})
+[Click me to check how to write new plugin]({{ site.baseurl }}{% link documents/extension-development/plugin/index.md %})
 
 ## About Workflow
 
 You can also check other extension type.
 
-[Click me to check Workflow]({% link documents/extension-development/workflow/index.md %})
+[Click me to check Workflow]({{ site.baseurl }}{% link documents/extension-development/workflow/index.md %})
 
 ## Plugin links
 

@@ -59,7 +59,7 @@ I've thought many useful alfred-workflows can run in "cross-platform", that's wh
 
 `Arvis` is intentionally built similar to Alfred, but there could be some different points.
 
-* [🎛️ Click me to check basic usage of Arvis]({% link documents/basic-usage.md %})
+* [🎛️ Click me to check basic usage of Arvis]({{ site.baseurl }}{% link documents/basic-usage.md %})
 
 ## 🌈 How to Install
 
@@ -67,17 +67,17 @@ Click [this link](https://github.com/jopemachine/arvis/releases) and download yo
 
 Note that you should install some [Extensions](#take-a-look-at-useful-workflows-plugins) to use Arvis.
 
-* [Windows]({% link documents/install/how-to-install-windows.md %})
+* [Windows]({{ site.baseurl }}{% link documents/install/how-to-install-windows.md %})
 
-* [Mac]({% link documents/install/how-to-install-mac.md %})
+* [Mac]({{ site.baseurl }}{% link documents/install/how-to-install-mac.md %})
 
-* [Linux]({% link documents/install/how-to-install-linux.md %})
+* [Linux]({{ site.baseurl }}{% link documents/install/how-to-install-linux.md %})
 
 ## 📓 What is Workflow, Plugin?
 
-* [What is Workflow?]({% link documents/extension/workflow-intro.md %})
+* [What is Workflow?]({{ site.baseurl }}{% link documents/extension/workflow-intro.md %})
 
-* [What is Plugin?]({% link documents/extension/plugin-intro.md %})
+* [What is Plugin?]({{ site.baseurl }}{% link documents/extension/plugin-intro.md %})
 
 ## 🌟 Take a look useful Workflows, Plugins
 
@@ -87,9 +87,9 @@ Note that you should install some [Extensions](#take-a-look-at-useful-workflows-
 
 ## 🔨 How to create new extensions
 
-* [Click me to check useful Workflows]({% link documents/extension-development/workflow/index.md %})
+* [Click me to check useful Workflows]({{ site.baseurl }}{% link documents/extension-development/workflow/index.md %})
 
-* [Click me to check how to create new Plugins]({% link documents/extension-development/plugin/index.md %})
+* [Click me to check how to create new Plugins]({{ site.baseurl }}{% link documents/extension-development/plugin/index.md %})
 
 ## ✨ Change appearance
 

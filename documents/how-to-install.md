@@ -11,8 +11,8 @@ Click [this link](https://github.com/jopemachine/arvis/releases) and download yo
 
 Note that you should install some [Extensions](#take-a-look-at-useful-workflows-plugins) to use Arvis.
 
-* [Windows]({% link documents/install/how-to-install-windows.md %})
+* [Windows]({{ site.baseurl }}{% link documents/install/how-to-install-windows.md %})
 
-* [Mac]({% link documents/install/how-to-install-mac.md %})
+* [Mac]({{ site.baseurl }}{% link documents/install/how-to-install-mac.md %})
 
-* [Linux]({% link documents/install/how-to-install-linux.md %})
+* [Linux]({{ site.baseurl }}{% link documents/install/how-to-install-linux.md %})

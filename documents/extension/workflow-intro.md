@@ -22,15 +22,15 @@ and the items returned by the script appear in searchWindow, and the `action` is
 
 ## Trigger
 
-[Click me to check Trigger]({% link documents/extension-development/trigger-description.md %})
+[Click me to check Trigger]({{ site.baseurl }}{% link documents/extension-development/trigger-description.md %})
 
 ## Action
 
-[Click me to check Action]({% link documents/extension-development/action-description.md %})
+[Click me to check Action]({{ site.baseurl }}{% link documents/extension-development/action-description.md %})
 
 ## How to write workflow
 
-[Click me to check how to write new workflow]({% link documents/extension-development/workflow/index.md %})
+[Click me to check how to write new workflow]({{ site.baseurl }}{% link documents/extension-development/workflow/index.md %})
 
 ## Workflow links
 
@@ -40,4 +40,4 @@ and the items returned by the script appear in searchWindow, and the `action` is
 
 You can also check other extension type.
 
-[Click me to check Plugin]({% link documents/extension-development/plugin/index.md %})
+[Click me to check Plugin]({{ site.baseurl }}{% link documents/extension-development/plugin/index.md %})

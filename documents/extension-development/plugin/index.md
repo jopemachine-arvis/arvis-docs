@@ -36,11 +36,11 @@ All changes in workflow, plugin folders's changes are being watched and reflecte
 
 `arvis-plugin.json` format is very similar with `arvis-workflow.json` format.
 
-[Click me to check arvis-plugin.json format]({% link documents/extension-development/plugin/plugin-config-format.md %})
+[Click me to check arvis-plugin.json format]({{ site.baseurl }}{% link documents/extension-development/plugin/plugin-config-format.md %})
 
 ### Action
 
-[Click me to check Action]({% link documents/extension-development/action-description.md %})
+[Click me to check Action]({{ site.baseurl }}{% link documents/extension-development/action-description.md %})
 
 ### Entry point of plugin (`main`)
 
@@ -74,7 +74,7 @@ String entered by user
 
 type: `array`
 
-[Click me to check history schema]({% link documents/extension-development/advanced/history.md %})
+[Click me to check history schema]({{ site.baseurl }}{% link documents/extension-development/advanced/history.md %})
 
 #### Return value
 
@@ -84,7 +84,7 @@ type: `array`
 
 required: `true`
 
-[Click me to check Environment variables]({% link documents/extension-development/plugin/plugin-items-format-description.md %})
+[Click me to check Environment variables]({{ site.baseurl }}{% link documents/extension-development/plugin/plugin-items-format-description.md %})
 
 
 ##### noSort
@@ -111,11 +111,11 @@ Both `workflows` and `plugin` set useful environment variables when running scri
 
 You can use the variables you want in your script.
 
-[Click me to check Environment variables]({% link documents/extension-development/advanced/extension-env-description.md %})
+[Click me to check Environment variables]({{ site.baseurl }}{% link documents/extension-development/advanced/extension-env-description.md %})
 
 ## Debugging workflow, plugin
 
-[How to debug workflow, plugin]({% link documents/extension-development/debugging/debugging-description.md %})
+[How to debug workflow, plugin]({{ site.baseurl }}{% link documents/extension-development/debugging/debugging-description.md %})
 
 ## Arvish
 

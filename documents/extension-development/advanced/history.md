@@ -16,7 +16,7 @@ In `workflow`, you can access the history file's path with environment variable 
 
 ## History file path
 
-Check [Config file paths]({% link documents/extension-development/advanced/config-file-paths.md %})
+Check [Config file paths]({{ site.baseurl }}{% link documents/extension-development/advanced/config-file-paths.md %})
 
 ## History json schema
 

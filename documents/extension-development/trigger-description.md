@@ -44,7 +44,7 @@ To trigger above `actions`, you can type `ch > init` in your search window like 
 
 In above screen, your pressing enter event trigger the 'Action', `script`.
 
-[Click me to check available attributes]({% link documents/extension-development/keyword-description.md %})
+[Click me to check available attributes]({{ site.baseurl }}{% link documents/extension-development/keyword-description.md %})
 
 ## `scriptFilter`
 
@@ -93,7 +93,7 @@ When you pressing the enter key on your selected item, `actions` is triggered.
 
 And `actions` with `modifiers` key with other than `normal` is only triggered when you press the modifier key together.
 
-[Click me to check available attributes]({% link documents/extension-development/scriptfilter-description.md %})
+[Click me to check available attributes]({{ site.baseurl }}{% link documents/extension-development/scriptfilter-description.md %})
 
 ## `Hotkey`
 
@@ -135,7 +135,7 @@ Example:
 },
 ```
 
-[Click me to check available attributes]({% link documents/extension-development/hotkey-description.md %})
+[Click me to check available attributes]({{ site.baseurl }}{% link documents/extension-development/hotkey-description.md %})
 
 You can easily append hotkey to the command you often use.
 

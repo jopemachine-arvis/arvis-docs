@@ -38,15 +38,15 @@ Version of arvis
 
 ### `arvis_extension_data`
 
-[Data path]({% link documents/extension-development/advanced/config-file-paths.md %}) of the extension
+[Data path]({{ site.baseurl }}{% link documents/extension-development/advanced/config-file-paths.md %}) of the extension
 
 ### `arvis_extension_cache`
 
-[Cache path]({% link documents/extension-development/advanced/config-file-paths.md %}) of the extension
+[Cache path]({{ site.baseurl }}{% link documents/extension-development/advanced/config-file-paths.md %}) of the extension
 
 ### `arvis_extension_history`
 
-[History path]({% link documents/extension-development/advanced/history.md %}) of the extension
+[History path]({{ site.baseurl }}{% link documents/extension-development/advanced/history.md %}) of the extension
 
 ### `arvis_extension_type`
 

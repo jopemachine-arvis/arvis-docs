@@ -36,7 +36,7 @@ All changes in workflow, plugin folders's changes are being watched and reflecte
 
 ## `arvis-workflow.json` format
 
-[Click me to check arvis-workflow.json format]({% link documents/extension-development/workflow/workflow-config-format.md %})
+[Click me to check arvis-workflow.json format]({{ site.baseurl }}{% link documents/extension-development/workflow/workflow-config-format.md %})
 
 ## JSON Schema
 
@@ -68,7 +68,7 @@ Convert alfred workflow's `info.plist` to `arvis-workflow.json` using [alfred-to
 
 Check the format of `scriptFilter` to use `scriptFilter` in your `workflow`, `plugin`.
 
-[Click me to check Scriptfilter JSON format]({% link documents/extension-development/scriptfilter-json-format-description.md %})
+[Click me to check Scriptfilter JSON format]({{ site.baseurl }}{% link documents/extension-development/scriptfilter-json-format-description.md %})
 
 ## Scriptfilter XML format
 
@@ -80,7 +80,7 @@ This logic is incomplete and not necessary in new extensions.
 
 ## Debugging workflow, plugin
 
-[How to debug workflow, plugin]({% link documents/extension-development/debugging/debugging-description.md %})
+[How to debug workflow, plugin]({{ site.baseurl }}{% link documents/extension-development/debugging/debugging-description.md %})
 
 ## Arvish
 
