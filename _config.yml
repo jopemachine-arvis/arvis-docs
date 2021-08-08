@@ -64,7 +64,7 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "Cross-platform launcher application that help you run, edit, create any workflow simple":
+  "Go main repository":
     - "//github.com/jopemachine/arvis"
 
 # Makes Aux links open in a new tab. Default is false

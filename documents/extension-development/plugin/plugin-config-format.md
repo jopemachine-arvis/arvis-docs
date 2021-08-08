@@ -5,7 +5,7 @@ parent: Plugin development
 nav_order: 3
 ---
 
-# `arvis-plugin.json` format
+# arvis-plugin.json format
 
 The json file consists of the following attributes.
 

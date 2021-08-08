@@ -8,7 +8,7 @@ nav_order: 9997
 
 # How to write arvis workflow
 
-:video_camera: You can check this [video tutorial](https://www.youtube.com/watch?v=VHddWNPjlp8) for overview how to create arvis-workflow.
+📹 You can check this [video tutorial](https://www.youtube.com/watch?v=VHddWNPjlp8) for overview how to create arvis-workflow.
 
 ## Support hotload
 

@@ -5,7 +5,7 @@ parent: Workflow development
 nav_order: 1
 ---
 
-# `arvis-workflow.json` format
+# arvis-workflow.json format
 
 The json file consists of the following attributes.
 

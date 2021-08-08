@@ -5,7 +5,7 @@ parent: Extension development
 nav_order: 1
 ---
 
-# `Keyword`
+# Keyword
 
 Example:
 
