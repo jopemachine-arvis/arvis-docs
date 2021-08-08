@@ -5,7 +5,7 @@ parent: Plugin development
 nav_order: 3
 ---
 
-# [How to write arvis plugin](./plugin-develop.md) → Plugin items format
+# Plugin items format
 
 The `main` function of the plugin must return an array of below format as `items`.
 

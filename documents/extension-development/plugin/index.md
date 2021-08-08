@@ -6,7 +6,7 @@ has_children: true
 nav_order: 9998
 ---
 
-# [Plugins intro](./plugin-intro.md) → How to write arvis plugin
+# How to write arvis plugin
 
 ## Support hotload
 
@@ -74,7 +74,7 @@ String entered by user
 
 type: `array`
 
-[Click me to check history schema](./history.md)
+[Click me to check history schema]({% link documents/extension-development/advanced/history.md %})
 
 #### Return value
 
@@ -84,7 +84,8 @@ type: `array`
 
 required: `true`
 
-[Click me to check items schema](./plugin-items-format-description.md)
+[Click me to check Environment variables]({% link documents/extension-development/plugin/plugin-items-format-description.md %})
+
 
 ##### noSort
 
@@ -110,12 +111,11 @@ Both `workflows` and `plugin` set useful environment variables when running scri
 
 You can use the variables you want in your script.
 
-[Click me to check Environment variables](./extension-env-description.md)
+[Click me to check Environment variables]({% link documents/extension-development/advanced/extension-env-description.md %})
 
 ## Debugging workflow, plugin
 
-[How to debug workflow, plugin](./debugging-description.md)
-
+[How to debug workflow, plugin]({% link documents/extension-development/debugging/debugging-description.md %})
 ## Arvish
 
 If you are familiar with `Alfy`, you can try to use [arvish](https://github.com/jopemachine/arvish) in your js scripts.
