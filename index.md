@@ -2,95 +2,109 @@
 layout: default
 title: Home
 nav_order: 1
-description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
+description: "README.md"
 permalink: /
 ---
 
-# Focus on writing good documentation
-{: .fs-9 }
+# [Arvis](https://github.com/jopemachine/arvis/releases)
+[![CodeFactor](https://www.codefactor.io/repository/github/jopemachine/arvis/badge)](https://www.codefactor.io/repository/github/jopemachine/arvis)
+[![Version](https://img.shields.io/github/v/tag/jopemachine/arvis?sort=date)](https://github.com/jopemachine/arvis/releases)
+[![Github All Releases](https://img.shields.io/github/downloads/jopemachine/arvis/total.svg)](https://github.com/jopemachine/arvis/releases)
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
+[![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
+[![GitHub issues](https://img.shields.io/github/issues/jopemachine/arvis.svg)](https://GitHub.com/jopemachine/arvis/issues/)
+[![Gitter](https://badges.gitter.im/arvis-gitter/community.svg)](https://gitter.im/arvis-gitter/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-Just the Docs gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub Pages.
-{: .fs-6 .fw-300 }
+Arvis is extendable cross-platform launcher application that aims to help you run, edit, create any workflow simple.
 
-[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/pmarsceill/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 }
+## 🔆 Highlights
 
----
+* Runs on cross-platform.
 
-## Getting started
+* Easily compatable with lots of Alfred workflows.
 
-### Dependencies
+* Search and install the extension from store simplely.
 
-Just the Docs is built for [Jekyll](https://jekyllrb.com), a static site generator. View the [quick start guide](https://jekyllrb.com/docs/) for more information. Just the Docs requires no special plugins and can run on GitHub Pages' standard Jekyll compiler. The [Jekyll SEO Tag plugin](https://github.com/jekyll/jekyll-seo-tag) is included by default (no need to run any special installation) to inject SEO and open graph metadata on docs pages. For information on how to configure SEO and open graph metadata visit the [Jekyll SEO Tag usage guide](https://jekyll.github.io/jekyll-seo-tag/usage/).
+* Publish new extension to store.
 
-### Quick start: Use as a GitHub Pages remote theme
+* Make your own search window style.
 
-1. Add Just the Docs to your Jekyll site's `_config.yml` as a [remote theme](https://blog.github.com/2017-11-29-use-any-theme-with-github-pages/)
-```yaml
-remote_theme: pmarsceill/just-the-docs
-```
-<small>You must have GitHub Pages enabled on your repo, one or more Markdown files, and a `_config.yml` file. [See an example repository](https://github.com/pmarsceill/jtd-remote)</small>
+:point_right: [Visit arvis.com for check simple overview](https://jopemachine.github.io/arvis.com/)
 
-### Local installation: Use the gem-based theme
+:video_camera: [View Arvis overview video](https://www.youtube.com/watch?v=arRfdSaGM8I)
 
-1. Install the Ruby Gem
-```bash
-$ gem install just-the-docs
-```
-```yaml
-# .. or add it to your your Jekyll site’s Gemfile
-gem "just-the-docs"
-```
-2. Add Just the Docs to your Jekyll site’s `_config.yml`
-```yaml
-theme: "just-the-docs"
-```
-3. _Optional:_ Initialize search data (creates `search-data.json`)
-```bash
-$ bundle exec just-the-docs rake search:init
-```
-3. Run you local Jekyll server
-```bash
-$ jekyll serve
-```
-```bash
-# .. or if you're using a Gemfile (bundler)
-$ bundle exec jekyll serve
-```
-4. Point your web browser to [http://localhost:4000](http://localhost:4000)
+https://user-images.githubusercontent.com/18283033/126311865-1fce968a-8fec-44d6-8fdb-40efcc2d3c4a.mp4
 
-If you're hosting your site on GitHub Pages, [set up GitHub Pages and Jekyll locally](https://help.github.com/en/articles/setting-up-your-github-pages-site-locally-with-jekyll) so that you can more easily work in your development environment.
+## 👷 Still alpha version.
 
-### Configure Just the Docs
+Arvis is still in the construction and there could be lots of bugs.
 
-- [See configuration options]({{ site.baseurl }}{% link docs/configuration.md %})
+* ⚠️ Currently has [severe performance issue](https://github.com/jopemachine/arvis-core/issues/2) on mac
 
----
+**Table of Contents**
 
-## About the project
+- [1. What is Arvis?](#-what-is-arvis-why-it-is-needed)
+- [2. How to Install](#-how-to-install)
+- [3. What is Workflow, Plugin?](#-what-is-workflow-plugin)
+- [4. Take a look at useful Workflows, Plugins](#-take-a-look-useful-workflows-plugins)
+- [5. How to create new Workflows, Plugins](#-how-to-create-new-extensions)
+- [6. Change appearance](#-change-appearance)
+- [7. Build and development](#-build-and-development)
 
-Just the Docs is &copy; 2017-{{ "now" | date: "%Y" }} by [Patrick Marsceill](http://patrickmarsceill.com).
+## 💬 What is Arvis? why it is needed?
 
-### License
+`Arvis` aims to help you run any scripts or binarys very simple.
 
-Just the Docs is distributed by an [MIT license](https://github.com/pmarsceill/just-the-docs/tree/master/LICENSE.txt).
+I've thought many useful alfred-workflows can run in "cross-platform", that's why I started to work on this.
 
-### Contributing
+`Arvis` also aims to provide "librarys" to help create such `workflow`, `plugin` more easily.
 
-When contributing to this repository, please first discuss the change you wish to make via issue,
-email, or any other method with the owners of this repository before making a change. Read more about becoming a contributor in [our GitHub repo](https://github.com/pmarsceill/just-the-docs#contributing).
+`Arvis` is intentionally built similar to Alfred, but there could be some different points.
 
-#### Thank you to the contributors of Just the Docs!
+* [:control_knobs: Click me to check basic usage of Arvis](./documents/basic-usage.md)
 
-<ul class="list-style-none">
-{% for contributor in site.github.contributors %}
-  <li class="d-inline-block mr-1">
-     <a href="{{ contributor.html_url }}"><img src="{{ contributor.avatar_url }}" width="32" height="32" alt="{{ contributor.login }}"/></a>
-  </li>
-{% endfor %}
-</ul>
+## 🌈 How to Install
 
-### Code of Conduct
+Click [this link](https://github.com/jopemachine/arvis/releases) and download your platform's binary.
 
-Just the Docs is committed to fostering a welcoming community.
+Note that you should install some [Extensions](#take-a-look-at-useful-workflows-plugins) to use Arvis.
 
-[View our Code of Conduct](https://github.com/pmarsceill/just-the-docs/tree/master/CODE_OF_CONDUCT.md) on our GitHub repository.
+* [Windows]({% link documents/how-to-install-windows.md %})
+
+* [Mac](./documents/how-to-install-mac.md)
+
+* [Linux](./documents/how-to-install-linux.md)
+
+## 📓 What is Workflow, Plugin?
+
+* [What is Workflow?](./documents/workflow-intro.md)
+
+* [What is Plugin?](./documents/plugin-intro.md)
+
+## 🌟 Take a look useful Workflows, Plugins
+
+* [Click me to check useful Workflows](https://github.com/jopemachine/arvis-store/blob/master/docs/workflow-links.md)
+
+* [Click me to check useful Plugins](https://github.com/jopemachine/arvis-store/blob/master/docs/plugin-links.md)
+
+## 🔨 How to create new extensions
+
+* [Click me to check how to create new Workflows](./documents/workflow-develop.md)
+
+* [Click me to check how to create new Plugins](./documents/plugin-develop.md)
+
+## ✨ Change appearance
+
+You can change Arvis search window's appearance to some extent.
+
+Click `Appearance` in the Preference window and import the `arvistheme` file or set values on your own.
+
+## 🔧 Build and development
+
+You can check how to build Arvis on below link.
+
+[Build and development](./src/README.md)
+
+## Contribution
+
+Contributions of any kind welcome, Feel free to create `bug`, `feature request` or other things in issue.
