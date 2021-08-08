@@ -130,7 +130,7 @@ type: `Action (object)`
 
 Action to be triggered by the `scriptFilter`.
 
-[Click to view "action" type](./action-description.md)
+[Click to view "action" type]({% link documents/extension-development/action-description.md %})
 
 ## modifiers
 

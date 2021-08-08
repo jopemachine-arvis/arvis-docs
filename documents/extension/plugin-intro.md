@@ -38,18 +38,18 @@ Note: The results of Deferred plugins are shown below normal items regardless of
 
 ## Action
 
-[Click me to check Action](./action-description.md)
+[Click me to check Action]({% link documents/extension-development/action-description.md %})
 
 ## How to write plugin
 
-[Click me to check how to write new plugin](./plugin-develop.md)
+[Click me to check how to write new plugin]({% link documents/extension-development/plugin/index.md %})
 
 ## About Workflow
 
 You can also check other extension type.
 
-[Click me to check Workflow](./workflow-intro.md)
+[Click me to check Workflow]({% link documents/extension-development/workflow/index.md %})
 
 ## Plugin links
 
-[Click me to check available arvis-plugins](./plugin-links.md)
+[Click me to check available arvis-plugins](https://github.com/jopemachine/arvis-store/blob/master/docs/plugin-links.md)

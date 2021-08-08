@@ -2,7 +2,7 @@
 layout: default
 title: Windows
 parent: Build and development
-nav_order: 1
+nav_order: 3
 ---
 
 # How to build on Windows

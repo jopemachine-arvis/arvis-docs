@@ -36,11 +36,11 @@ All changes in workflow, plugin folders's changes are being watched and reflecte
 
 `arvis-plugin.json` format is very similar with `arvis-workflow.json` format.
 
-[Click me to check arvis-plugin.json format](./plugin-config-format.md)
+[Click me to check arvis-plugin.json format]({% link documents/extension-development/plugin/plugin-config-format.md %})
 
 ### Action
 
-[Click me to check Action](./action-description.md)
+[Click me to check Action]({% link documents/extension-development/action-description.md %})
 
 ### Entry point of plugin (`main`)
 

@@ -73,4 +73,4 @@ type: `Action (object)`
 
 Action to be triggered by the `hotkey`.
 
-[Click to view "action" type](./documents/action-description.md)
+[Click to view "action" type]({% link documents/extension-development/action-description.md %})

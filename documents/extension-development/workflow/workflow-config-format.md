@@ -203,8 +203,8 @@ Therefore, it is useful when you ask users for information such as API keys.
 
 #### Trigger
 
-[Click me to check Trigger](./trigger-description.md)
+[Click me to check Trigger]({% link documents/extension-development/trigger-description.md %})
 
 #### Action
 
-[Click me to check Action](./action-description.md)
+[Click me to check Action]({% link documents/extension-development/action-description.md %})

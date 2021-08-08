@@ -6,6 +6,6 @@ parent: Extension development
 nav_order: 9999
 ---
 
-# Config
+# Advanced
 
 Select menu you want.

@@ -2,7 +2,7 @@
 layout: default
 title: Mac
 parent: Build and development
-nav_order: 1
+nav_order: 2
 ---
 
 # How to build on Macos

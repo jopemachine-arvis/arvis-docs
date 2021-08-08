@@ -2,7 +2,7 @@
 layout: default
 title: Mac
 parent: How to Install
-nav_order: 1
+nav_order: 2
 ---
 
 # 🌈 How to Install

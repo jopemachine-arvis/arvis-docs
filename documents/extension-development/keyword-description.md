@@ -72,7 +72,7 @@ type: `actions (object)`
 
 Actions to be triggered by the `keyword`.
 
-[Click to view "actions" type](./documents/actions-description.md)
+[Click to view "action" type]({% link documents/extension-development/action-description.md %})
 
 ## modifiers
 

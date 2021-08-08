@@ -22,22 +22,22 @@ and the items returned by the script appear in searchWindow, and the `action` is
 
 ## Trigger
 
-[Click me to check Trigger](./trigger-description.md)
+[Click me to check Trigger]({% link documents/extension-development/trigger-description.md %})
 
 ## Action
 
-[Click me to check Action](./action-description.md)
+[Click me to check Action]({% link documents/extension-development/action-description.md %})
 
 ## How to write workflow
 
-[Click me to check how to write new plugin](./workflow-develop.md)
+[Click me to check how to write new workflow]({% link documents/extension-development/workflow/index.md %})
 
 ## Workflow links
 
-[Click me to check available arvis-workflows](./workflow-links.md)
+[Click me to check available arvis-workflows](https://github.com/jopemachine/arvis-store/blob/master/docs/workflow-links.md)
 
 ## About Plugin
 
 You can also check other extension type.
 
-[Click me to check Plugin](./plugin-intro.md)
+[Click me to check Plugin]({% link documents/extension-development/plugin/index.md %})

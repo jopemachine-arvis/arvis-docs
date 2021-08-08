@@ -2,7 +2,7 @@
 layout: default
 title: Windows
 parent: How to Install
-nav_order: 1
+nav_order: 3
 ---
 
 # 🌈 How to Install
