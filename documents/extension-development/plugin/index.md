@@ -86,7 +86,6 @@ required: `true`
 
 [Click me to check Environment variables]({{ site.baseurl }}{% link documents/extension-development/plugin/plugin-items-format-description.md %})
 
-
 ##### noSort
 
 type: `boolean`

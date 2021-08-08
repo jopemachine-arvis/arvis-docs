@@ -64,7 +64,7 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "Go main repository":
+  "Github":
     - "//github.com/jopemachine/arvis"
 
 # Makes Aux links open in a new tab. Default is false
