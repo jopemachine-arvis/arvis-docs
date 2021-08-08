@@ -1,6 +1,6 @@
 # arvis-docs
 
-WIP
+Static web page for Arvis documentations
 
 ## Build source
 
