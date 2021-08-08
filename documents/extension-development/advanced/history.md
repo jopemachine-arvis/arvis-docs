@@ -1,7 +1,7 @@
 ---
 layout: default
 title: History
-parent: Extension development Config
+parent: Advanced
 nav_order: 3
 ---
 
@@ -15,7 +15,7 @@ In `workflow`, you can access the history file's path with environment variable 
 
 ## History file path
 
-Check [Config file paths]({% link documents/extension-development/config/config-file-paths.md %})
+Check [Config file paths]({% link documents/extension-development/advanced/config-file-paths.md %})
 
 ## History json schema
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Workflow Config format
-parent: Extension development
+parent: Workflow development
 nav_order: 3
 ---
 

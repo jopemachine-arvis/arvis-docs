@@ -2,7 +2,7 @@
 layout: default
 title: Keyword
 parent: Extension development
-nav_order: 3
+nav_order: 1
 ---
 
 # `Keyword`

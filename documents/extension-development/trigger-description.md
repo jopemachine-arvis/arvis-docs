@@ -2,7 +2,7 @@
 layout: default
 title: Trigger
 parent: Extension development
-nav_order: 1
+nav_order: 6
 ---
 
 # Trigger

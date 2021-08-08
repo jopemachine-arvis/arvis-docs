@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Config file paths
-parent: Extension development Config
+parent: Advanced
 nav_order: 1
 ---
 

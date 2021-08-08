@@ -2,7 +2,8 @@
 layout: default
 title: Workflow development
 parent: Extension development
-nav_order: 1
+has_children: true
+nav_order: 9997
 ---
 
 # [Workflows intro](./workflow-intro.md) → How to write arvis workflow

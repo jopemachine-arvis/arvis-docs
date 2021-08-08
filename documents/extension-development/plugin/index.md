@@ -1,8 +1,9 @@
 ---
 layout: default
-title: How to write arvis plugin
+title: Plugin development
 parent: Extension development
-nav_order: 3
+has_children: true
+nav_order: 9998
 ---
 
 # [Plugins intro](./plugin-intro.md) → How to write arvis plugin

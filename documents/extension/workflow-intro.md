@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About Workflow
+title: Workflow intro
 nav_order: 4
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Extension env descriptions
-parent: Extension development Config
+parent: Advanced
 nav_order: 2
 ---
 
@@ -37,15 +37,15 @@ Version of arvis
 
 ### `arvis_extension_data`
 
-[Data path]({% link documents/extension-development/config/config-file-paths.md %}) of the extension
+[Data path]({% link documents/extension-development/advanced/config-file-paths.md %}) of the extension
 
 ### `arvis_extension_cache`
 
-[Cache path]({% link documents/extension-development/config/config-file-paths.md %}) of the extension
+[Cache path]({% link documents/extension-development/advanced/config-file-paths.md %}) of the extension
 
 ### `arvis_extension_history`
 
-[History path]({% link documents/extension-development/config/history.md %}) of the extension
+[History path]({% link documents/extension-development/advanced/history.md %}) of the extension
 
 ### `arvis_extension_type`
 

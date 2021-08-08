@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About Plugin
+title: Plugin intro
 nav_order: 5
 ---
 
