@@ -14,7 +14,7 @@ To open SearchWindow's debugger (Devtools), you can click your tray icon and sel
 
 You can check the debugging information of Arvis, including information about `workflow`, `plugin` in the devtools.
 
-![]({% link imgs/debugging-description-1.png %})
+![]({{ site.baseurl }}{% link imgs/debugging-description-1.png %})
 
 2. You can activate or unactivate log types to focus on your debugging on `Advanced > Debugging` page.
 
@@ -32,7 +32,7 @@ You can select
 
 - `Plugin`
 
-![]({% link imgs/debugging-page.png %})
+![]({{ site.baseurl }}{% link imgs/debugging-page.png %})
 
 3. The debugger does not display information unrelated to extension development, such as redux state because it is only meaningful in Arvis development.
 

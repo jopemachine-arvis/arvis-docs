@@ -17,7 +17,7 @@ nav_order: 2
 
 5. Open mac's preference and `give appropriate permissions` to Arvis. (Including `Notification permissions` `Full disk access permission`)
 
-![]({% link imgs/build-macos-description-1.png %})
+![]({{ site.baseurl }}{% link imgs/build-macos-description-1.png %})
 
 ## Tip
 

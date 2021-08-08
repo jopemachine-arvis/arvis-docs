@@ -40,7 +40,7 @@ In above example, you can see command with `ch > init`.
 
 To trigger above `actions`, you can type `ch > init` in your search window like this.
 
-![]({% link imgs/trigger-description-1.png %})
+![]({{ site.baseurl }}{% link imgs/trigger-description-1.png %})
 
 In above screen, your pressing enter event trigger the 'Action', `script`.
 
@@ -54,7 +54,7 @@ Whenever you changes your "query" (your input), `scriptFilter` runs.
 
 When `scriptFilter` runs, it executes the script specified in `scriptFilter`.
 
-![]({% link imgs/trigger-description-2.png %})
+![]({{ site.baseurl }}{% link imgs/trigger-description-2.png %})
 
 Example: 
 
@@ -143,4 +143,4 @@ Open Preference Window and Click workflow page, select the workflow and trigger 
 
 Then right click the command, click append hotkey.
 
-![]({% link imgs/append-hotkey.png %})
+![]({{ site.baseurl }}{% link imgs/append-hotkey.png %})
