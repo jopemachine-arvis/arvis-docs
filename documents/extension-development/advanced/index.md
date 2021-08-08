@@ -7,5 +7,3 @@ nav_order: 9999
 ---
 
 # Advanced
-
-Select menu you want.

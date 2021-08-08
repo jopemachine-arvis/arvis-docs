@@ -116,6 +116,7 @@ You can use the variables you want in your script.
 ## Debugging workflow, plugin
 
 [How to debug workflow, plugin]({% link documents/extension-development/debugging/debugging-description.md %})
+
 ## Arvish
 
 If you are familiar with `Alfy`, you can try to use [arvish](https://github.com/jopemachine/arvish) in your js scripts.

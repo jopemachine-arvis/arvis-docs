@@ -20,7 +20,7 @@ First, recommend searching for useful `plugins`.
 
 * ### Extension update notification
 
-![](./imgs/extension-update-notification.png)
+![]({% link imgs/extension-update-notification.png %})
 
 You can be notified if a particular extension is backward in version.
 
@@ -30,7 +30,7 @@ You can manage your extensions or change config, appearance of search window on 
 
 * ### General
 
-![](./imgs/general-page.png)
+![]({% link imgs/general-page.png %})
 
 Allows you to set basic settings for Arvis.
 
@@ -40,7 +40,7 @@ Font can be set up system fonts installed in your OS.
 
 * ### Workflows
 
-![](./imgs/workflow-page.png)
+![]({% link imgs/workflow-page.png %})
 
 You can manage your installed workflows on this page.
 
@@ -58,19 +58,19 @@ You can check the extension's basic information like creator, name, description,
 
 #### Trigger table
 
-![](./imgs/trigger-table.png)
+![]({% link imgs/trigger-table.png %})
 
 In the trigger table, you can change or add triggers for specific commands
 
 #### User config
 
-![](./imgs/user-config-table.png)
+![]({% link imgs/user-config-table.png %})
 
 You can set the extension's User config value (variables) like API key.
 
 #### README
 
-![](./imgs/readme-table.png)
+![]({% link imgs/readme-table.png %})
 
 You can check README of the extension.
 
@@ -80,7 +80,7 @@ You can check web page of the extension.
 
 * ### Plugins
 
-![](./imgs/plugin-page.png)
+![]({% link imgs/plugin-page.png %})
 
 You can manage your installed plugins on this page.
 
@@ -110,7 +110,7 @@ You can check web page of the extension.
 
 ### Appearence
 
-![](./imgs/appearance-page.png)
+![]({% link imgs/appearance-page.png %})
 
 Change search window's style to your style.
 
@@ -122,7 +122,7 @@ Or just click `theme` button to set predetermined setting values.
 
 * ### Store
 
-![](./imgs/store-page.png)
+![]({% link imgs/store-page.png %})
 
 You can look for and install lots of extensions through `store` page.
 
@@ -130,7 +130,7 @@ Check the extension information on the web page and install, update the extensio
 
 * ### Clipboard History
 
-![](./imgs/clipboard-history-page.png)
+![]({% link imgs/clipboard-history-page.png %})
 
 Change Clipboard History's setting.
 
@@ -142,7 +142,7 @@ Change Clipboard History's setting.
 
 #### Debugging
 
-![](./imgs/debugging-page.png)
+![]({% link imgs/debugging-page.png %})
 
 Change debugging options according to your needs
 
@@ -162,7 +162,7 @@ Search window is resizable.
 
 * ### Pin window
 
-![](./imgs/pin-window.png)
+![]({% link imgs/pin-window.png %})
 
 You can pin search window if you want.
 
@@ -182,7 +182,7 @@ You can check the item's information on `markdown`, `html (webview)`, `text` ren
 
 Example:
 
-![](./imgs/quicklook.png)
+![]({% link imgs/quicklook.png %})
 
 You can also open quicklook by hovering your mouse to the right side of the search window.
 
@@ -196,7 +196,7 @@ You can move your LargeText window by dragging non-text area.
 
 You can adjust the size of the text of LargeText window by `mouse wheeling` with pressing `cmd (or ctrl)` key.
 
-![](./imgs/largetext-window.png)
+![]({% link imgs/largetext-window.png %})
 
 LargeText window is useful when your item have too long title. (For example, item displays some error message)
 
@@ -206,7 +206,7 @@ To autocomplete command, press `tab`.
 
 ## Clipboard history
 
-![](./imgs/clipboard-history.png)
+![]({% link imgs/clipboard-history.png %})
 
 You can look for and search your clipboard history through clipboard history window.
 
