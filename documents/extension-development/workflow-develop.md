@@ -1,3 +1,10 @@
+---
+layout: default
+title: Workflow development
+parent: Extension development
+nav_order: 1
+---
+
 # [Workflows intro](./workflow-intro.md) → How to write arvis workflow
 
 :video_camera: You can check this [video tutorial](https://www.youtube.com/watch?v=VHddWNPjlp8) for overview how to create arvis-workflow.

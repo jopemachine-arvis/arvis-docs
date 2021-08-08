@@ -37,15 +37,15 @@ Version of arvis
 
 ### `arvis_extension_data`
 
-[Data path](./config-file-paths.md) of the extension
+[Data path]({% link ./config-file-paths.md %}) of the extension
 
 ### `arvis_extension_cache`
 
-[Cache path](./config-file-paths.md) of the extension
+[Cache path]({% link ./config-file-paths.md %}) of the extension
 
 ### `arvis_extension_history`
 
-[History file](./history.md) path of the Arvis
+[History path]({% link ./history.md %}) of the extension
 
 ### `arvis_extension_type`
 

@@ -89,9 +89,9 @@ Note that you should install some [Extensions](#take-a-look-at-useful-workflows-
 
 ## 🔨 How to create new extensions
 
-* [Click me to check useful Workflows]({% link documents/extension/workflow-develop.md %})
+* [Click me to check useful Workflows]({% link documents/extension-development/workflow-develop.md %})
 
-* [Click me to check how to create new Plugins]({% link documents/extension/plugin-develop.md %})
+* [Click me to check how to create new Plugins]({% link documents/extension-development/plugin-develop.md %})
 
 ## ✨ Change appearance
 
