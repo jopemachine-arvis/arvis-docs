@@ -1,3 +1,10 @@
+---
+layout: default
+title: Keyword
+parent: Extension development
+nav_order: 3
+---
+
 # `Keyword`
 
 Example:

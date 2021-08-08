@@ -1,6 +1,6 @@
 ---
 layout: default
-title: How to Install
+title: Mac
 parent: How to Install
 nav_order: 1
 ---

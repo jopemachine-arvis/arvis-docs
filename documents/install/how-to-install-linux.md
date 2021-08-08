@@ -1,6 +1,6 @@
 ---
 layout: default
-title: How to Install
+title: Linux
 parent: How to Install
 nav_order: 1
 ---

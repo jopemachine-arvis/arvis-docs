@@ -1,3 +1,10 @@
+---
+layout: default
+title: How to write arvis plugin
+parent: Extension development
+nav_order: 3
+---
+
 # [Plugins intro](./plugin-intro.md) → How to write arvis plugin
 
 ## Support hotload

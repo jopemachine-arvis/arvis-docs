@@ -1,3 +1,10 @@
+---
+layout: default
+title: Action
+parent: Extension development
+nav_order: 3
+---
+
 # Action
 
 You can use below `actions` types.

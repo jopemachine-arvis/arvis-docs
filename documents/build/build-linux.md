@@ -1,3 +1,10 @@
+---
+layout: default
+title: Linux
+parent: Build and development
+nav_order: 1
+---
+
 # How to build on Linux
 
 > This is not required for regular users. You should follow this page only if you want to build the source files yourself.

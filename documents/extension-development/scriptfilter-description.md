@@ -1,3 +1,10 @@
+---
+layout: default
+title: Scriptfilter
+parent: Extension development
+nav_order: 3
+---
+
 # Scriptfilter
 
 Example:

@@ -1,3 +1,10 @@
+---
+layout: default
+title: Mac
+parent: Build and development
+nav_order: 1
+---
+
 # How to build on Macos
 
 > This is not required for regular users. You should follow this page only if you want to build the source files yourself.

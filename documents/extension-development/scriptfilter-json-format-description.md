@@ -1,3 +1,10 @@
+---
+layout: default
+title: Scriptfilter item JSON format
+parent: Extension development
+nav_order: 3
+---
+
 # Scriptfilter item JSON format
 
 `Arvis` use almost same scriptfilter JSON format with `Alfred-workflow`

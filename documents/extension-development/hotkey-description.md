@@ -1,3 +1,10 @@
+---
+layout: default
+title: Hotkey
+parent: Extension development
+nav_order: 3
+---
+
 # Hotkey
 
 Example:

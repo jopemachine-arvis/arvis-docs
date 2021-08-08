@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Trigger
-parent: Workflow
+parent: Extension development
 nav_order: 1
 ---
 
