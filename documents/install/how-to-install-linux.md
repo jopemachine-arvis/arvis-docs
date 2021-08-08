@@ -1,3 +1,10 @@
+---
+layout: default
+title: How to Install
+parent: How to Install
+nav_order: 1
+---
+
 # 🌈 How to Install
 
 1. Install [Node 12](https://nodejs.org/ko/download/) or higher because lots of extensions use Node.

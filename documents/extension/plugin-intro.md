@@ -1,3 +1,9 @@
+---
+layout: default
+title: About Plugin
+nav_order: 5
+---
+
 # Plugin introduction
 
 You can replace repetitive task with using `workflow`.

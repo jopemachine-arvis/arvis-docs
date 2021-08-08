@@ -1,3 +1,10 @@
+---
+layout: default
+title: Config file paths
+parent: Extension development Config
+nav_order: 1
+---
+
 # Config file pathes
 
 You can open below paths by pressing `menu > Advanced > Open Setting File Directory > ... path` 

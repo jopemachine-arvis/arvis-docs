@@ -1,3 +1,10 @@
+---
+layout: default
+title: Extension env descriptions
+parent: Extension development Config
+nav_order: 2
+---
+
 # Extension environment variables
 
 Arvis provides `$PATH` env to extension's scripts in windows, linux, macos.

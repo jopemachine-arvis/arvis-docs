@@ -1,3 +1,9 @@
+---
+layout: default
+title: About Workflow
+nav_order: 4
+---
+
 # Workflow introduction
 
 You can replace repetitive task with using `workflow`.

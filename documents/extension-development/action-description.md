@@ -1,10 +1,3 @@
----
-layout: default
-title: Action description
-nav_order: 1
-
----
-
 # Action
 
 You can use below `actions` types.

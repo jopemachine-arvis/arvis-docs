@@ -1,4 +1,10 @@
-# :control_knobs: Arvis Basic usage
+---
+layout: default
+title: Basic usage
+nav_order: 3
+---
+
+# 🎛️ Arvis Basic usage
 
 Arvis cannot do anything without installing extensions.
 

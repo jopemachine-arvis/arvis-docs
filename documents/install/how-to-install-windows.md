@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Action description
-parent: Action
+title: How to Install
+parent: How to Install
 nav_order: 1
 ---
 

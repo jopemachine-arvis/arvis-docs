@@ -1,3 +1,10 @@
+---
+layout: default
+title: Trigger
+parent: Workflow
+nav_order: 1
+---
+
 # Trigger
 
 You can use `keyword`, `scriptFilter`, `hotkey` to trigger commands.

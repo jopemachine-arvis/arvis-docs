@@ -1,3 +1,10 @@
+---
+layout: default
+title: Config format
+parent: Workflow
+nav_order: 3
+---
+
 # [How to write arvis workflow](./workflow-develop.md) → `arvis-workflow.json` format
 
 The json file consists of the following attributes.

@@ -29,9 +29,9 @@ Arvis is extendable cross-platform launcher application that aims to help you ru
 
 * Make your own search window style.
 
-:point_right: [Visit arvis.com for check simple overview](https://jopemachine.github.io/arvis.com/)
+👉 [Visit arvis.com for check simple overview](https://jopemachine.github.io/arvis.com/)
 
-:video_camera: [View Arvis overview video](https://www.youtube.com/watch?v=arRfdSaGM8I)
+📹 [View Arvis overview video](https://www.youtube.com/watch?v=arRfdSaGM8I)
 
 https://user-images.githubusercontent.com/18283033/126311865-1fce968a-8fec-44d6-8fdb-40efcc2d3c4a.mp4
 
@@ -61,7 +61,7 @@ I've thought many useful alfred-workflows can run in "cross-platform", that's wh
 
 `Arvis` is intentionally built similar to Alfred, but there could be some different points.
 
-* [:control_knobs: Click me to check basic usage of Arvis](./documents/basic-usage.md)
+* [🎛️ Click me to check basic usage of Arvis]({% link documents/basic-usage.md %})
 
 ## 🌈 How to Install
 
@@ -69,17 +69,17 @@ Click [this link](https://github.com/jopemachine/arvis/releases) and download yo
 
 Note that you should install some [Extensions](#take-a-look-at-useful-workflows-plugins) to use Arvis.
 
-* [Windows]({% link documents/how-to-install-windows.md %})
+* [Windows]({% link documents/install/how-to-install-windows.md %})
 
-* [Mac](./documents/how-to-install-mac.md)
+* [Mac]({% link documents/install/how-to-install-mac.md %})
 
-* [Linux](./documents/how-to-install-linux.md)
+* [Linux]({% link documents/install/how-to-install-linux.md %})
 
 ## 📓 What is Workflow, Plugin?
 
-* [What is Workflow?](./documents/workflow-intro.md)
+* [What is Workflow?]({% link documents/extension/workflow-intro.md %})
 
-* [What is Plugin?](./documents/plugin-intro.md)
+* [What is Plugin?]({% link documents/extension/plugin-intro.md %})
 
 ## 🌟 Take a look useful Workflows, Plugins
 
@@ -89,9 +89,9 @@ Note that you should install some [Extensions](#take-a-look-at-useful-workflows-
 
 ## 🔨 How to create new extensions
 
-* [Click me to check how to create new Workflows](./documents/workflow-develop.md)
+* [Click me to check useful Workflows]({% link documents/extension/workflow-develop.md %})
 
-* [Click me to check how to create new Plugins](./documents/plugin-develop.md)
+* [Click me to check how to create new Plugins]({% link documents/extension/plugin-develop.md %})
 
 ## ✨ Change appearance
 
@@ -103,7 +103,7 @@ Click `Appearance` in the Preference window and import the `arvistheme` file or 
 
 You can check how to build Arvis on below link.
 
-[Build and development](./src/README.md)
+[Build and development](https://github.com/jopemachine/arvis/blob/master/src/README.md)
 
 ## Contribution
 

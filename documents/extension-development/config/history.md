@@ -1,3 +1,10 @@
+---
+layout: default
+title: History
+parent: Extension development Config
+nav_order: 3
+---
+
 # History
 
 Arvis supports providing `history log`.
