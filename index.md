@@ -37,8 +37,6 @@ Arvis is extendable cross-platform launcher application that aims to help you ru
 
 Arvis is still in the construction and there could be lots of bugs.
 
-* ⚠️ Currently has [severe performance issue](https://github.com/jopemachine/arvis-core/issues/2) on mac
-
 **Table of Contents**
 
 - [1. What is Arvis?](#-what-is-arvis-why-it-is-needed)
