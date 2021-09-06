@@ -54,13 +54,13 @@ Disabled extensions are not used on your search.
 
 #### Basic info
 
-You can check the extension's basic information like creator, name, description, version.
+You can check the extension's information like creator, name, description, version.
 
 #### Trigger table
 
 ![]({{ site.baseurl }}{% link imgs/trigger-table.png %})
 
-In the trigger table, you can change or add triggers for specific commands
+In the trigger table, you can edit or add, delete triggers for specific commands.
 
 #### User config
 
@@ -73,6 +73,10 @@ You can set the extension's User config value (variables) like API key.
 ![]({{ site.baseurl }}{% link imgs/readme-table.png %})
 
 You can check README of the extension.
+
+README contents is readed from `arvis-workflow.json`,
+
+But if readme is empty Arvis try to find and fetch readme data from github.
 
 #### Web page
 
@@ -104,11 +108,15 @@ You can set the extension's User config value (variables) like API key.
 
 You can check README of the extension.
 
+README contents is readed from `arvis-plugin.json`,
+
+But if readme is empty Arvis try to find and fetch readme data from github.
+
 #### Web page
 
 You can check web page of the extension.
 
-### Appearence
+* ### Appearence
 
 ![]({{ site.baseurl }}{% link imgs/appearance-page.png %})
 
@@ -133,6 +141,30 @@ Check the extension information on the web page and install, update the extensio
 ![]({{ site.baseurl }}{% link imgs/clipboard-history-page.png %})
 
 Change Clipboard History's setting.
+
+* ### Snippets
+
+![]({{ site.baseurl }}{% link imgs/snippet-page.png %})
+
+You can manage your installed snippets on this page.
+
+Install new snippet collection from `arvissnippets`, `alfredsnippets` file.
+
+Create, edit, delete snippets, snippet collections.
+
+You also can change snippet viewer's hotkey on this page.
+
+To edit collection's information, double click collection item to show up a modal box for editing.
+
+![]({{ site.baseurl }}{% link imgs/snippet-page-collection-info-edit.png %})
+
+* ### Universal actions
+
+![]({{ site.baseurl }}{% link imgs/universal-action-page.png %})
+
+Arvis support universal action partly.
+
+You can change universal action viewer's hotkey on this page.
 
 * ### Advanced
 
@@ -213,3 +245,19 @@ You can look for and search your clipboard history through clipboard history win
 Default shortcut in Mac, `cmd + opt + c`, in other platforms, `ctrl + alt + c`.
 
 You can also pin clipboard history window if you want.
+
+## Snippets
+
+![]({{ site.baseurl }}{% link imgs/snippet-window.png %})
+
+You can look for and search your snippet through snippet window.
+
+Default shortcut in Mac, 'cmd + \`', in other platforms, 'alt + \`'.
+
+## Universal action window
+
+![]({{ site.baseurl }}{% link imgs/universal-action-window.png %})
+
+You can deliver your selected text to search window through universal action window.
+
+Default shortcut in Mac, `cmd + shift + .`, in other platforms, `ctrl + shift + .`.

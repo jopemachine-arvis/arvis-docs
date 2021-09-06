@@ -6,46 +6,43 @@ description: "README.md"
 permalink: /
 ---
 
-# [Arvis](https://github.com/jopemachine/arvis/releases)
-[![CodeFactor](https://www.codefactor.io/repository/github/jopemachine/arvis/badge)](https://www.codefactor.io/repository/github/jopemachine/arvis)
-[![Version](https://img.shields.io/github/v/tag/jopemachine/arvis?sort=date)](https://github.com/jopemachine/arvis/releases)
-[![Github All Releases](https://img.shields.io/github/downloads/jopemachine/arvis/total.svg)](https://github.com/jopemachine/arvis/releases)
-[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
-[![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
-[![GitHub issues](https://img.shields.io/github/issues/jopemachine/arvis.svg)](https://GitHub.com/jopemachine/arvis/issues/)
-[![Gitter](https://badges.gitter.im/arvis-gitter/community.svg)](https://gitter.im/arvis-gitter/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+<div align="center">
+  <h1>Arvis</h1>
+    <p>
+      <img src="https://www.codefactor.io/repository/github/jopemachine/arvis/badge" />
+      <img src="https://img.shields.io/github/downloads/jopemachine/arvis/total.svg" />
+      <img src="https://img.shields.io/badge/License-MIT-blue.svg" />
+      <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat" />
+      <img src="https://img.shields.io/github/issues/jopemachine/arvis.svg" />
+      <img src="https://badges.gitter.im/arvis-gitter/community.svg" />
+    </p>
+  <p>
+    <b>Extendable cross-platform launcher that aims to help you run, edit, create any workflow simple</b>
+  </p>
+  <br>
+  <p>
+    <img src="https://user-images.githubusercontent.com/18283033/131144965-97a5b380-afcd-46c4-8298-55ac6b75bcce.gif" />
+  </p>
+  <br>
+</div>
 
-Arvis is extendable cross-platform launcher application that aims to help you run, edit, create any workflow simple.
+* Fully support cross-platform.
 
-## 🔆 Highlights
-
-* Runs on cross-platform.
-
-* Easily compatable with lots of Alfred workflows.
+* Compatable with lots of [Alfred 4 workflows](https://www.alfredapp.com/workflows/).
 
 * Search and install the extension from store simplely.
 
-* Publish new extension to store.
+* Make your own styles.
 
-* Make your own search window style.
+* Support clipboard history.
 
-👉 [Visit arvis.com for check simple overview](https://jopemachine.github.io/arvis.com/)
+* Partially support universal actions.
 
-📹 [View Arvis overview video](https://www.youtube.com/watch?v=arRfdSaGM8I)
+* (Experimental) Support snippet compatable with alfred snippets.
 
-## 👷 Still alpha version.
+📹: [Overview video](https://www.youtube.com/watch?v=arRfdSaGM8I)
 
-Arvis is still in the construction and there could be lots of bugs.
-
-**Table of Contents**
-
-- [1. What is Arvis?](#-what-is-arvis-why-it-is-needed)
-- [2. How to Install](#-how-to-install)
-- [3. What is Workflow, Plugin?](#-what-is-workflow-plugin)
-- [4. Take a look at useful Workflows, Plugins](#-take-a-look-useful-workflows-plugins)
-- [5. How to create new Workflows, Plugins](#-how-to-create-new-extensions)
-- [6. Change appearance](#-change-appearance)
-- [7. Build and development](#-build-and-development)
+📚: [Check for more documentations](https://jopemachine.github.io/arvis-docs/)
 
 ## 💬 What is Arvis? why it is needed?
 
@@ -65,42 +62,14 @@ Click [this link](https://github.com/jopemachine/arvis/releases) and download yo
 
 Note that you should install some [Extensions](#take-a-look-at-useful-workflows-plugins) to use Arvis.
 
-* [Windows]({{ site.baseurl }}{% link documents/install/how-to-install-windows.md %})
+* [Windows](https://jopemachine.github.io/arvis-docs/documents/install/how-to-install-windows/)
 
-* [Mac]({{ site.baseurl }}{% link documents/install/how-to-install-mac.md %})
+* [Mac](https://jopemachine.github.io/arvis-docs/documents/install/how-to-install-mac/)
 
-* [Linux]({{ site.baseurl }}{% link documents/install/how-to-install-linux.md %})
+* [Linux](https://jopemachine.github.io/arvis-docs/documents/install/how-to-install-linux/)
 
-## 📓 What is Workflow, Plugin?
-
-* [What is Workflow?]({{ site.baseurl }}{% link documents/extension/workflow-intro.md %})
-
-* [What is Plugin?]({{ site.baseurl }}{% link documents/extension/plugin-intro.md %})
-
-## 🌟 Take a look useful Workflows, Plugins
-
-* [Click me to check useful Workflows](https://github.com/jopemachine/arvis-store/blob/master/docs/workflow-links.md)
-
-* [Click me to check useful Plugins](https://github.com/jopemachine/arvis-store/blob/master/docs/plugin-links.md)
-
-## 🔨 How to create new extensions
-
-* [Click me to check how to create new Workflows]({{ site.baseurl }}{% link documents/extension-development/workflow/index.md %})
-
-* [Click me to check how to create new Plugins]({{ site.baseurl }}{% link documents/extension-development/plugin/index.md %})
-
-## ✨ Change appearance
-
-You can change Arvis search window's appearance to some extent.
-
-Click `Appearance` in the Preference window and import the `arvistheme` file or set values on your own.
-
-## 🔧 Build and development
-
-You can check how to build Arvis on below link.
-
-[Build and development](https://github.com/jopemachine/arvis/blob/master/src/README.md)
-
-## Contribution
+## 🌟 Contribution
 
 Contributions of any kind welcome, Feel free to create `bug`, `feature request` or other things in issue.
+
+If you like Arvis, don't forget to press star before leaving :)
