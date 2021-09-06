@@ -260,4 +260,4 @@ Default shortcut in Mac, 'cmd + \`', in other platforms, 'alt + \`'.
 
 You can deliver your selected text to search window through universal action window.
 
-Default shortcut in Mac, `cmd + shift + .`, in other platforms, `ctrl + shift + .`.
+Default shortcut in Mac, `cmd + shift + .`, in other platforms, `alt + shift + .`.
