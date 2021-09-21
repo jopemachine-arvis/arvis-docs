@@ -10,9 +10,7 @@ nav_order: 3
 
 Arvis supports providing `history log`.
 
-In `plugin`, it would be provided as `history` of main function,
-
-In `workflow`, you can access the history file's path with environment variable and use it by reading the history json.
+In `workflow` and `plugin`, you can access the history file's path with environment variable and use it by reading the history json.
 
 ## History file path
 

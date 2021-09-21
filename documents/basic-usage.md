@@ -236,7 +236,7 @@ LargeText window is useful when your item have too long title. (For example, ite
 
 To autocomplete command, press `tab`.
 
-## Clipboard history
+## Clipboard History
 
 ![]({{ site.baseurl }}{% link imgs/clipboard-history.png %})
 

@@ -51,7 +51,7 @@ This file should export below form's function to be properly imported.
 You can also use `async-await` syntax to this to handle some async operation.
 
 ```js
-module.exports = ({ inputStr, history }) => {
+module.exports = ({ inputStr }) => {
   ...
  
   return {
@@ -69,12 +69,6 @@ You can check minimal working [plugin example](https://github.com/jopemachine/ar
 type: `string`
 
 String entered by user
-
-#### history
-
-type: `array`
-
-[Click me to check history schema]({{ site.baseurl }}{% link documents/extension-development/advanced/history.md %})
 
 ### Return value
 
