@@ -8,9 +8,9 @@ nav_order: 9998
 
 # How to write arvis plugin
 
-## Support hotload
+## Use [generator-arvis](https://github.com/jopemachine/generator-arvis) to create plugin skeleton
 
-All changes in workflow, plugin folders's changes are being watched and reflected when they are created.
+Just install `generator-arvis` and type `yo arvis` on your terminal.
 
 ## Use [arvish](https://github.com/jopemachine/arvish) to build your plugin
 
@@ -32,17 +32,17 @@ All changes in workflow, plugin folders's changes are being watched and reflecte
 </p>
 </details>
 
-## `arvis-plugin.json` format
+# `arvis-plugin.json` format
 
 `arvis-plugin.json` format is very similar with `arvis-workflow.json` format.
 
 [Click me to check arvis-plugin.json format]({{ site.baseurl }}{% link documents/extension-development/plugin/plugin-config-format.md %})
 
-### Action
+## Action
 
 [Click me to check Action]({{ site.baseurl }}{% link documents/extension-development/action-description.md %})
 
-### Entry point of plugin (`main`)
+## Entry point of plugin (`main`)
 
 The js file specified in `main` is entry point of the `plugin`, which means this is imported by `Arvis` in runtime.
 
@@ -62,23 +62,23 @@ module.exports = ({ inputStr, history }) => {
 
 You can check minimal working [plugin example](https://github.com/jopemachine/arvis-calculator-plugin-example) here.
 
-#### Arguments
+### Arguments
 
-##### inputStr
+#### inputStr
 
 type: `string`
 
 String entered by user
 
-##### history
+#### history
 
 type: `array`
 
 [Click me to check history schema]({{ site.baseurl }}{% link documents/extension-development/advanced/history.md %})
 
-#### Return value
+### Return value
 
-##### items
+#### items
 
 type: `array`
 
@@ -86,7 +86,7 @@ required: `true`
 
 [Click me to check Environment variables]({{ site.baseurl }}{% link documents/extension-development/plugin/plugin-items-format-description.md %})
 
-##### noSort
+#### noSort
 
 type: `boolean`
 
@@ -98,13 +98,13 @@ If you want to not sort your plugin item, use `noSort` option.
 
 Note that `noSort` is true, your plugin items will be positioned most below position.
 
-## JSON Schema
+# JSON Schema
 
 Recommend to use the [JSON schema](https://github.com/jopemachine/arvis-extension-validator/blob/master/plugin-schema.json) below when creating `plugin`.
 
 You can simply create arvis-plugin skeleton file using the schema by [arvish](https://github.com/jopemachine/arvish).
 
-## Available Environment variable
+# Available Environment variable
 
 Both `workflows` and `plugin` set useful environment variables when running scripts.
 
@@ -112,10 +112,10 @@ You can use the variables you want in your script.
 
 [Click me to check Environment variables]({{ site.baseurl }}{% link documents/extension-development/advanced/extension-env-description.md %})
 
-## Debugging workflow, plugin
+# Debugging workflow, plugin
 
 [How to debug workflow, plugin]({{ site.baseurl }}{% link documents/extension-development/debugging/debugging-description.md %})
 
-## Arvish
+# Arvish
 
 If you are familiar with `Alfy`, you can try to use [arvish](https://github.com/jopemachine/arvish) in your js scripts.

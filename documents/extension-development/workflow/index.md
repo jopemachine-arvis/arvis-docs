@@ -10,11 +10,11 @@ nav_order: 9997
 
 📹 You can check this [video tutorial](https://www.youtube.com/watch?v=VHddWNPjlp8) for overview how to create arvis-workflow.
 
-## Support hotload
+## Use [generator-arvis](https://github.com/jopemachine/generator-arvis) to create workflow skeleton
 
-All changes in workflow, plugin folders's changes are being watched and reflected when they are created.
+Just install `generator-arvis` and type `yo arvis` on your terminal.
 
-## Use [arvish](https://github.com/jopemachine/arvish) to build your plugin
+## Use [arvish](https://github.com/jopemachine/arvish) to init workflow
 
 1. Write proper `arvis-workflow.json`.
 
@@ -34,17 +34,17 @@ All changes in workflow, plugin folders's changes are being watched and reflecte
 </p>
 </details>
 
-## `arvis-workflow.json` format
+# `arvis-workflow.json` format
 
 [Click me to check arvis-workflow.json format]({{ site.baseurl }}{% link documents/extension-development/workflow/workflow-config-format.md %})
 
-## JSON Schema
+# JSON Schema
 
 Recommend to use the [JSON schema](https://github.com/jopemachine/arvis-extension-validator/blob/master/workflow-schema.json) below when creating workflows.
 
 You can simply create arvis-workflow skeleton file using the schema by [arvish](https://github.com/jopemachine/arvish).
 
-## Available Environment variable
+# Available Environment variable
 
 Both `workflows` and `plugin` set useful environment variables when running scripts.
 
@@ -52,7 +52,7 @@ You can use the variables you want in your script
 
 [Click me to check Environment variables](./extension-env-description.md)
 
-## Alfred-workflow Compatibility
+# Alfred-workflow Compatibility
 
 * Basically, `Arvis` use same [JSON Scriptfilter Format](https://www.alfredapp.com/help/workflows/inputs/script-filter/) with Alfred-workflows.
 
@@ -60,17 +60,17 @@ You can use the variables you want in your script
 
 * Especially if the workflow is builded on [alfy](https://github.com/sindresorhus/alfy), you can convert workflow more easily using [arvish](https://github.com/jopemachine/arvish), the clone version of alfy. 
 
-### Convert alfredworkflow to arvisworkflow
+## Convert alfredworkflow to arvisworkflow
 
 Convert alfred workflow's `info.plist` to `arvis-workflow.json` using [alfred-to-arvis](https://github.com/jopemachine/alfred-to-arvis) 
 
-## Scriptfilter JSON format
+# Scriptfilter JSON format
 
 Check the format of `scriptFilter` to use `scriptFilter` in your `workflow`, `plugin`.
 
 [Click me to check Scriptfilter JSON format]({{ site.baseurl }}{% link documents/extension-development/scriptfilter-json-format-description.md %})
 
-## Scriptfilter XML format
+# Scriptfilter XML format
 
 Do not recommend using XML format scriptfilter.
 
@@ -78,10 +78,10 @@ Lots of alfred workflow uses XML format's scriptfilter, so I've implemented some
 
 This logic is incomplete and not necessary in new extensions.
 
-## Debugging workflow, plugin
+# Debugging workflow, plugin
 
 [How to debug workflow, plugin]({{ site.baseurl }}{% link documents/extension-development/debugging/debugging-description.md %})
 
-## Arvish
+# Arvish
 
 If you are using node in your workflow, you can try to use [arvish](https://github.com/jopemachine/arvish) in your js scripts.
