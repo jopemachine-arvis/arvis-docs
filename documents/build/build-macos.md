@@ -35,5 +35,5 @@ $ yarn replace-prebuilt
 
 Some features must also be tested separately in production.
 
-1. `export CSC_IDENTITY_AUTO_DISCOVERY=false && yarn package`
+1. `yarn package`
 
